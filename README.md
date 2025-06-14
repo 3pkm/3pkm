@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Prakhar Jaiswal</h1>
-<h3 align="center">A passionate FullStack developer from India</h3>
+<h3 align="center">A FullStack developer from India</h3>
 
-- 🔭 I’m currently working on **Smart AI integrated CCTV camera for Threat Detection**
+- 🔭 I’m currently working on **Keyword Automator**
 
-- 🌱 I’m currently learning **Django**
+- 🌱 I’m currently learning **React**
 
 
 ## 🌐 Socials:
